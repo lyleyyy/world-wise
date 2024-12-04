@@ -40,25 +40,49 @@
       "cityName": "Stockholm",
       "country": "Sweden",
       "emoji": "🇸🇪",
-      "date": "2027-02-23T12:24:11.863Z",
-      "notes": "Amazing 😃",
+      "date": "2024-12-04T19:13:48.074Z",
+      "notes": "qwdqwd",
       "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
+        "lat": "59.31076795603884",
+        "lng": "18.110961914062504"
       },
-      "id": 98423497
+      "id": 98443198
     },
     {
-      "cityName": "Paris",
-      "country": "France",
-      "emoji": "🇫🇷",
-      "date": "2027-02-22T09:24:11.863Z",
-      "notes": "Amazing 😃",
+      "cityName": "Barcelona",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-12-04T20:11:48.793Z",
+      "notes": "qwdqwd",
       "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
+        "lat": "41.3850519497068",
+        "lng": "2.1560668945312504"
       },
-      "id": 98103196
+      "id": 98443199
+    },
+    {
+      "cityName": "Helsinki",
+      "country": "Finland",
+      "emoji": "🇫🇮",
+      "date": "2024-12-04T20:15:55.843Z",
+      "notes": "waya!",
+      "position": {
+        "lat": "60.1524422143808",
+        "lng": "25.004882812500004"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Rome",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2024-12-04T20:19:44.846Z",
+      "notes": "www",
+      "position": {
+        "lat": "41.73852846935917",
+        "lng": "12.612304687500002"
+      },
+      "id": 98443201
     }
   ]
 }
